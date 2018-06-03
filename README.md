@@ -2,4 +2,4 @@
 
 Second revision of the [GitHub Essentials](https://githubessentials) book.
 
-Test change.
+For more info, check the wiki.
